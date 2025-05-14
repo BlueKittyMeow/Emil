@@ -162,10 +162,43 @@
 ### The Choice
 - Discovers Protégé's interest in her condition
 - Realizes potential bargaining power
-- Negotiates mother's lifelong care
-- Makes decision without telling anyone
+- Negotiates mother's lifelong care through intermediaries
+- Makes decision without explanation or farewell
 - Uses social connections to arrange it
-- Possibly leaves letter for Emil
+- No letter - like her mother, she leaves things unsaid
+
+### Final Interactions
+#### With Emil
+- A last conversation that he'll only understand in retrospect
+- Gentle but sharp observations about his condition
+- Perhaps a warning he won't recognize until too late
+- Something that seems kind but is actually goodbye
+- No explanation - she knows he wouldn't believe or understand
+- Mirrors her mother's way of expressing love through absence
+
+#### With Her Lover/Enabler
+- The one person who knows the full plan
+- Loves Klara enough to help her die
+- Understands the terrible necessity
+- Handles practical arrangements
+- Will carry the weight of this forever
+- Their love expressed through this final service
+- The only one who truly sees all of Klara
+- Possibly the one who negotiates with Protégé
+- Guardian of Klara's mother's care arrangements
+- Keeper of the true story
+
+### The Execution
+- Carefully planned and timed
+- Arranged through her lover/enabler
+- Clinical and precise like a medical procedure
+- Perhaps even beautiful in its terrible way
+- No room for last-minute changes
+- Every detail considered
+- Mother's care already arranged
+- No loose ends
+- No dramatic goodbyes
+- Just quiet disappearance
 
 ### Psychological Elements
 - Ultimate expression of her caretaking
@@ -182,6 +215,7 @@
 - Forces confrontation with his condition
 - Motivates final action against Protégé
 - Realizes that, while he was listening to Klara, he wasn't hearing her. She got all the information she needed from him, and he was too self-preoccupied to realize it.
+- The tragic irony that Emil, who is so hyperaware of being observed, completely misses that he is being studied by Klara
 
 #### Felix
 - Devastates his faith in preservation
