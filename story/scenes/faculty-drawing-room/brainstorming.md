@@ -29,11 +29,11 @@
 ## Symbolic Elements to Consider
 - Rain as concealment/revelation
 - Windows as barriers/mirrors
-- Wine as blood/specimen
+<!--- Wine as blood/specimen
 - Lamplight as truth/deception
 - Circle of colleagues as medical theater - ABSOLUTELY THIS. While they are colleagues, there is also a sense of one-upmanship and competition. Occasional reduction of the patients to pure pathology. 
 - Faculty portraits as judgment
-- Drawing room as dissection theater
+- Drawing room as dissection theater -->
 
 ## Possible Complications
 - What if someone recognizes elements of his "case"?

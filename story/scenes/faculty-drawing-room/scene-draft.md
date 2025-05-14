@@ -12,8 +12,23 @@ Dr. Hoffman was describing a case of particular fascination to the assembled com
 
 The smoke from his cigar drew anatomical patterns in the air as he continued. "The fascinating aspect was the progression – the calcification spread in a pattern resembling tree branches, visible even through the skin. We documented its growth over several months, tracking its advance through the thoracic space." He paused to sip his brandy. "The specimen – that is to say, the patient – maintained remarkable lucidity throughout, enabling us to record his sensations as the condition progressed."
 
+Emil noted the slip between "specimen" and "patient" with clinical detachment, recognizing how easily medical fascination could transform a person into an object of study. He had seen it countless times in the anatomy theater, that moment when human suffering became scientific observation.
 
-Professor Weber had just finished adding his own case of nervous affliction to the evening's collection, his hands sketching elaborate patterns in the air as he detailed the patient's symptoms. Emil noted how the others leaned in, their professional detachment slipping just slightly in their eagerness. How many times had he seen that same avid interest in the dissection theater? That hunger for the unique, the aberrant, the instructive case?
+A servant moved silently around the circle, offering to replenish wine glasses. Emil gave a slight shake of his head when the man reached him, covering his glass with long fingers. The wine's weight in his stomach was already more than he preferred.
+
+Dr. Bartoš cleared his throat, drawing attention. "Speaking of unusual progressions, I encountered a remarkable case last autumn. A young woman of good family, presenting with an inexplicable series of seizures. The fascinating aspect was their precise timing – they occurred only at sunset, lasting exactly twelve minutes."
+
+He paused to tap his cigar ash. "We tracked the episodes for three months. Like clockwork, each day as the sun touched the horizon, the seizures would begin. The patient remained conscious throughout, able to describe sensations of music that no one else could hear. She claimed it was always the same melody, though she had no musical training and couldn't reproduce it."
+
+"Most curious was the abrupt cessation of symptoms. On the winter solstice, the episodes simply stopped. No explanation, no gradual improvement. One day present, the next gone, leaving us with more questions than answers." He sat back, satisfied with the murmurs of interest his case had provoked.
+
+"And the patient's physical condition throughout?" Dr. Hoffman inquired, leaning forward. "Was there any deterioration?"
+
+"Fascinating that you should ask," Dr. Bartoš replied. "Despite taking no sustenance during the episodes, she maintained her weight perfectly. Most unusual for a case of this duration. One might almost say her body preserved itself, as if in suspension."
+
+Emil's wine glass froze halfway to his lips. The words "taking no sustenance" and "maintained her weight" echoed strangely in his ears, transforming from medical observation to personal accusation. He found himself calculating how many hours of walking it would take to counter the wine's weight in his stomach.
+
+Through the haze of his thoughts, he was dimly aware of Professor Weber sharing his own case of nervous affliction, the words washing over him like the rain against the windows. His attention drifted, caught between the pressure of the wine in his stomach and the memory of his own carefully documented weight measurements, precise to the quarter-pound.
 
 "And you, Dr. Králik?" Professor Weber's voice cut through Emil's contemplation. "Surely in your research on pain management, you must have encountered some unusual cases worth sharing?"
 

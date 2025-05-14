@@ -1,4 +1,4 @@
-# Emil - Personal Profile
+# Emil Králik - Personal Profile
 
 ## Professional Life
 ### Academic Position
