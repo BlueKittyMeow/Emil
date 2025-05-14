@@ -314,4 +314,44 @@
    - Effect on romantic possibilities
    - Management of admirers
    - Balance of resources
-   - Emotional availability 
+   - Emotional availability
+
+## Thematic Questions to Explore
+
+### Illness & Connection
+- Can there be true camaraderie in shared mental illness?
+- Does sharing these experiences inherently reinforce harmful patterns?
+- How does one balance support with enabling?
+- When does understanding become complicity?
+- Is genuine connection possible when both parties are unreliable narrators of their own experience? IMPORTANT, MAJOR THEME. 
+
+### Manipulation & Authenticity
+- Can a relationship be both genuine and strategic?
+- How does Klara balance real connection with planned exploitation?
+- Does Emil's self-absorption make him complicit in his own exploitation? (umm yes)
+- Can manipulation arise from a place of love?
+- Does Klara's genuine understanding of Emil make her manipulation more or less ethical?
+
+### Body as Commodity
+- How do different characters "use" their bodies?
+- What's the difference between Klara's chosen commodification and the Protégé's forced collection?
+- How does Emil's academic position commodify illness differently?
+- Where is the line between medical study and exploitation?
+- How does institutional power influence bodily autonomy? Emil's academic position and autonomy is threatened by his use of his autonomy over his body. 
+
+### Care & Sacrifice
+- What are the limits of justified sacrifice?
+- How does Klara's sacrifice mirror/contrast with Emil's self-destruction?
+- Does her choice validate or challenge institutional objectification?
+- How does her sacrifice comment on medical care systems?
+- What does it mean to choose to become a specimen?
+
+### Preservation & Destruction
+- What's the relationship between preservation and destruction?
+- How do Felix's preservation instincts blind him to ongoing destruction?
+- Does Klara's choice preserve or destroy her agency?
+- How does Emil's self-preservation manifest as self-destruction? Is he living only to continue to be ever more ill, unto death? 
+- What's being preserved in medical collections - knowledge or power? 
+- Ties into questions of ethics in the biological specimen holdings of major universities and museums. 
+- At what point does the collection become more important than the specimens themselves? 
+- At what point does a collection become removed enough in time that it contains legitimate artifacts of human history (mummies, etc.) vs simple grave robbing and corpse looting? 
