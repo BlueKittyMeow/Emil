@@ -1,0 +1,14 @@
+# Novel Title: [Working Title]
+
+## Chapter 1: [Chapter Title]
+
+[Your prose begins here...]
+
+---
+## Writing Notes
+- Character profiles
+- Plot points
+- World-building elements
+
+## Revision History
+- [Date] Initial setup
