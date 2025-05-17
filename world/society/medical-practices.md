@@ -213,3 +213,42 @@
   - Drawing room discussions
   - Dinner party adaptations
   - Family friend interventions 
+
+## Professional Consequences of Visible Illness
+
+### Academic Perception
+- Physical weakness undermined authority in male-dominated field
+- Professional judgment questioned if self-care appeared compromised
+- "Nervous temperament" damaged academic reputation
+- Visible frailty conflicted with expected professional image
+- Physical authority essential for medical credibility
+
+### Institutional Response
+- Universities as prestigious Habsburg state institutions
+- Administrative concern over public image
+- Potential forced medical leave for visible conditions
+- Institutional pressure to maintain appearances
+- Protection of university reputation paramount
+
+### Medical Colleague Response
+#### Initial Reactions
+- Attribution to overwork
+- Assumption of digestive complaints
+- Professional courtesy maintained
+- Informal concern expressed
+- Subtle monitoring begins
+
+#### Progressive Recognition
+- Identification of pathological patterns
+- Growing professional concern
+- Attempted discrete intervention
+- Formal observation initiated
+- Documentation of symptoms
+
+### Professional Motivation for Concealment
+- Gender-specific stigma for "female" conditions
+- Academic position at risk
+- Professional authority threatened
+- Career advancement implications
+- Institutional scrutiny avoided
+- Colleague intervention prevented 
