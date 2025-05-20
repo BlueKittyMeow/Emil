@@ -14,6 +14,9 @@
 - Pale complexion
 - Graceful hands
 - Unable to walk/limited mobility
+- Distinctive posture when seated
+- Seemingly fragile neck that she often protects with high collars or scarves
+- Avoids certain movements with deliberate care
 
 ### Medical Condition
 - Partial paralysis (cause TBD)
@@ -21,6 +24,15 @@
 - Cultivated fragility
 - Requires assistance for movement
 - Takes pride in being "portable"
+- Progressive hardening of soft tissues in certain areas
+- Episodes of unexplained inflammation, particularly after minor injuries
+- Unusual stillness and careful positioning when seated
+- Gradual loss of range of motion in certain joints
+- Carefully managed pain that worsens with weather changes
+- Pronounced fear of falls or impacts
+- Extraordinary knowledge of her own anatomy and limitations
+- Meticulous about avoiding physical stress on her body
+- Particular sensitivity about her neck and back being touched
 
 ## Family Dynamics
 ### Mother
@@ -57,6 +69,8 @@
 - Deep intelligence
 - Both vulnerable and sharp
 - Uses beauty as armor
+- Particular fascination with anatomy and preservation techniques
+- Interest in medical specimens and their documentation
 
 ### Inner Life
 - Complicated relationship with dependency
@@ -65,6 +79,9 @@
 - Artistic ambitions
 - Hidden desires
 - Possible attraction to women
+- Acute awareness of her body's gradual transformation
+- Fascination with permanence and preservation
+- Secret study of medical curiosities and rare conditions
 
 ## Social Position
 ### Public Life
@@ -77,6 +94,7 @@
 - Strategic social connections
 - Hidden financial motivations
 - Protection of family secrets
+- Carefully staged appearances that control how others physically interact with her
 
 ### Private Reality
 - Lonely despite attention
@@ -97,6 +115,9 @@
 - Exploration of body/spirit
 - Growing recognition
 - Outlet for truth
+- Recurring motifs of transformation and stillness
+- Fascination with the internal architecture of living things
+- Subtle references to ossification and calcification in natural objects
 
 ### Salon Presence
 - Held aloft by admirers
@@ -112,6 +133,10 @@
 - Recognition of shared struggles
 - Different manifestations of control
 - Can say unsayable things
+- Shared medical knowledge that allows deeper understanding
+- Her interest in his anatomical expertise and specimen preservation knowledge
+- Calculated questions about medical collections and preservation techniques
+- Strategic mining of information about rare conditions and their scientific value
 
 ### Impact on Story
 - Mirror for Emil's condition
@@ -166,6 +191,9 @@
 - Makes decision without explanation or farewell
 - Uses social connections to arrange it
 - No letter - like her mother, she leaves things unsaid
+- Understands her body's inevitable transformation into a living specimen
+- Recognizes the scientific value of her progressive ossification
+- Calculates the worth of her eventual skeleton to collectors like the Protégé
 
 ### Final Interactions
 #### With Emil
@@ -206,6 +234,9 @@
 - Transformation of dependency into power
 - Terrible mirror of her mother's self-neglect
 - Both escape from and embrace of being specimen
+- Calculated decision based on her understanding of her condition's progression
+- Recognition that her body's betrayal can be transformed into value
+- Awareness that her slowly ossifying frame will eventually become a medical curiosity regardless
 
 ### Impact on Other Characters
 #### Emil
@@ -246,6 +277,9 @@
 - Transformation of weakness into strength
 - Ultimate cost of love
 - Medical specimen vs human dignity
+- The gradual, inevitable ossification of the self
+- The transformation of living tissue into something preserved and permanent
+- The value of rare conditions to scientific collectors
 
 ## Legacy in Story
 - Her sacrifice haunts Emil
@@ -296,6 +330,10 @@
 - Interest in collection security measures (hidden under concern for what would happen to Emil if he were to collapse while working with biological specimens)
 - Careful attention to institutional hierarchies
 - Gathering of strategic connections
+- Specific questions about preservation of unusual bone formations
+- Interest in the Mutter Museum's collection practices
+- Questions about how rare medical conditions are documented and cataloged
+- Subtle inquiries about the market value of unique anatomical specimens
 
 ### Final Letter Elements
 - Explanation of her choice
