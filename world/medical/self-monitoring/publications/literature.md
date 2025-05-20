@@ -8,10 +8,14 @@
 - Volume: 7
 - Pages: 22-28
 - Key points:
-  - First clinical definition
-  - Focus on young women
-  - Description of physical symptoms
-  - Recognition of mental component
+  - Acknowledged male cases as "rare"
+- Primarily focused on young female patients
+- First use of term "anorexia nervosa"
+- Established clinical definition
+- Recognized mental aspects of condition
+
+  Royal Society of Medicine Archives (https://www.rsm.ac.uk/library/)
+
 
 ### Expanded Analysis (1888)
 - Title: "Anorexia Nervosa"
@@ -24,11 +28,17 @@
   - "Characterized by extreme emaciation"
   - Attribution to "morbid mental state"
 
+Accessed through The Lancet Archives  https://www.thelancet.com/journals/lancet/issue/current
+
 ## Historical Medical Literature on Anorexia Nervosa
 
 ### Early Documentation of Male Cases
 
 #### Richard Morton (1689)
+
+"Phthisiologia: Or a Treatise of Consumptions" (1689)
+Available in medical history collections like the Wellcome Collection (https://wellcomecollection.org/)
+
 - First documented cases of "nervous consumption"
 - Included male patients in observations
 - Cases retrospectively identified as likely anorexia
@@ -36,18 +46,15 @@
 - Noted willful food refusal without organic cause
 
 #### Charles Lasègue (1873)
+
+"De l'anorexie hystérique" (1873) in Archives Générales de Médecine
+English translation "On Hysterical Anorexia" is available in the Journal of the History of Medicine and Allied Sciences (https://academic.oup.com/jhmas)
 - Published first explicitly described male case
 - Primary focus remained on female patients
 - Emphasized psychological components
 - Documented behavioral patterns
 - Noted social context of condition
 
-#### William Withey Gull (1874)
-- Acknowledged male cases as "rare"
-- Primarily focused on young female patients
-- First use of term "anorexia nervosa"
-- Established clinical definition
-- Recognized mental aspects of condition
 
 ## Contemporary Medical Understanding
 - Primary focus on female patients

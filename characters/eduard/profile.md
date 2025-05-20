@@ -1,4 +1,8 @@
-# Eduard - Character Profile
+# Eduard Weber
+
+![Eduard](../../assets/images/eduard.png)
+
+
 
 ## Professional Life
 ### Academic Position

@@ -1,5 +1,10 @@
 # Emil Králik - Personal Profile
 
+![Emil](../../assets/images/emil.png)
+
+## Ethnicity
+- Czech
+
 ## Professional Life
 ### Academic Position
 - Medical researcher and professor

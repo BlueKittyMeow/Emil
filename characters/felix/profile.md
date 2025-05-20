@@ -1,5 +1,8 @@
 # Felix - Personal Profile
 
+## Ethnicity
+- German
+
 ## Professional Life
 [Role TBD - Architect/Archivist/Architectural Historian]
 - Currently involved in historical research

@@ -1,4 +1,7 @@
-# Klara - Character Profile
+# Klara
+
+## Ethnicity
+- Mixed Czech and German background. 
 
 ## Overview
 - Young woman in Prague's artistic circles

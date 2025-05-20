@@ -1,5 +1,47 @@
 # The Collector - Character Profile
 
+Dr. Maximilian Reichmann (1828-1895)
+Personal Background:
+
+Born to a middle-class Czech family in Prague
+Father was a pharmacist, sparking early interest in medicine
+Educated in Vienna and Berlin, returning to Prague in 1860s
+Never married, devoted to research and collection
+Lived predominantly in his townhouse near university district
+Purchased country estate in 1878 as "research retreat"
+
+Professional Life:
+
+Professor of Medical History at Charles University (German division)
+Published extensively on historical medical practices
+Public specialty: evolution of surgical techniques
+Private obsession: documentation of rare medical conditions
+Well-respected in both Czech and German academic circles
+Founder of "Historical Medical Preservation Society" (front for collection)
+
+Physical Appearance:
+
+Tall, gaunt figure with precise posture
+Characteristic white beard, meticulously trimmed
+Always formally dressed, typically in black
+Cold blue eyes often described as "analytical"
+Thin hands with unusually long fingers
+Known for barely perceptible tremor in later years (early poisoning?)
+
+Personal Quirks:
+
+Documented everything in minute detail
+Collected unusual timepieces
+Spoke six languages fluently
+Drank only distilled water
+Worked by gaslight even during daylight hours
+Maintained rigid daily schedule
+
+
+
+
+
+
 ## Overview
 - Recently deceased at start of story
 - Wealthy and respected in life

@@ -1,4 +1,7 @@
-# Anton - Character Profile
+# Anton Svoboda- Character Profile
+
+## Ethnicity
+- Czech
 
 ## Professional Life
 ### Shop Details
