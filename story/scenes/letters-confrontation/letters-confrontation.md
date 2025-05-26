@@ -247,7 +247,7 @@ Some boundaries, once crossed, could never be fully restored.
 
 *Emil's apartment, midday*
 
-Emil's key turned in the lock with precise familiarity. He paused imperceptibly before opening the door, a moment of reluctance before allowing Felix into this space. The apartment appeared undisturbed—exactly as Emil had left it the previous evening.
+Emil's  in the lock with precise familiarity. He paused imperceptibly before opening the door, a moment of reluctance before allowing Felix into this space. The apartment appeared undisturbed—exactly as Emil had left it the previous evening.
 
 "I'll prepare a valise," Emil said, moving toward his bedroom with deliberate efficiency. "It shouldn't take long."
 

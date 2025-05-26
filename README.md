@@ -1,4 +1,4 @@
-# Emil - Story Project
+# "The Specimen" by Lawrence Vale
 
 ## Project Structure
 
