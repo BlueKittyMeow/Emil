@@ -5,10 +5,12 @@
 
 ## Overview
 - Young woman in Prague's artistic circles
-- Partially paralyzed from illness/accident
+- Partially paralyzed from fibrodysplasia ossificans progressiva (FOP)
 - Developed eating disorder connected to desire for lightness/mobility
 - Sharp wit and artistic sensibility
 - Complex relationship with her invalid status
+
+- Idea for the painkiller Emil monitors - morphine - paradoxical musclele rigidity the effect his is trying to check for, delirium is the effect that makes Klara speak freely of her mother. 
 
 ## Physical Characteristics
 ### Appearance
