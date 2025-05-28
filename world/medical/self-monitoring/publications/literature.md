@@ -97,3 +97,7 @@ English translation "On Hysterical Anorexia" is available in the Journal of the 
 - Growing recognition of mental factors
 - Institutional treatment approaches
 - Professional documentation methods 
+
+
+FOP issues with anesthesia and intubation: https://www.bjanaesthesia.org/article/S0007-0912(17)49913-2/pdf
+
