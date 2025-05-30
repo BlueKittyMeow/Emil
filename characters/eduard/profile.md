@@ -25,6 +25,7 @@
 - Genuine when approving
 - Observant
 - Analytical mind
+- Quotes from eminent physicians and researchers
 
 ## Relationship with Emil
 ### Mentorship
@@ -36,7 +37,7 @@
 - Professional support
 
 ### Observations
-- Aware of Emil's condition
+- Slowly becoming suspicious of Emil's condition
 - [Level of intervention TBD]
 - Professional concern
 - Personal worry
