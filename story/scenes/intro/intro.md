@@ -1,13 +1,6 @@
 # Introduction Chapter
 
-## Notes
-Winter morning, Vltava River frozen. Emil's precise winter walking routine, Felix documenting ice damage to historical buildings. Prague's winter beauty masking institutional/personal rigidities. Their paths cross over shared concern about weather damage to university facilities.
 
-Felix's sketching hands - opening not with Emil but Felix drawing architectural decay, his fingers tracing what's crumbling while trying to preserve it.
-
-
-
-## Actual Draft Text
 For centuries, the Vltava River had been eating away at Prague's flesh, licking away at it with its rasped tongue. It sighed and laid itself down along the city, shifting a bit to make itself more at ease. Lapping into the mortar joints, breathing foggy breath into the sills and cornices, it claimed the city as its own. 
 
 There had been efforts to resist this undignified intrusion. The stone embankments had been laid in place in protest against the flooded streets and moistened basements. The river in turn accepted this détente as reasonable terms for their coexistence. 
@@ -33,6 +26,6 @@ Felix looked up from his survey and snapped his sketchbook closed with a flick o
 They fell in step along the bank, the gentle creaking of the ice as familiar as the sighs of patients on the ward. 
 
 "You will be going on your evening walk?" Felix asked. 
-Emil considered briefly. Their walk this afternoon had been longer than expected, Felix eager to note the damage to nearly a dozen different buildings scattered along the banks. Long enough, sidling right up to the edge of overlong. 
+Emil considered briefly. Their walk this afternoon had been longer than usual, Felix eager to note the damage to nearly a dozen different buildings scattered along the banks. Long enough, approaching overlong. 
 "Not tonight," Emil said, "I have lecture notes to review for tomorrow."
 Felix nodded and set off towards Emil's apartments. 
