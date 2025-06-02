@@ -24,16 +24,15 @@ Though he lacked the training of his companion, Emil could see the damage that t
 
 "It's not so bad," Felix said absently, eyes flicking from the building to the page. "The brewing mill at Kampa was clearly worse, timber is always a complication."
 
+The wind picked up, blowing hard against the side of the building, thrusting some dead leaves into the air in a childish celebration. They reeled in the golden fading light, then dipped back down into the shadows. Emil shivered. 
 
+Felix looked up from his survey and snapped his sketchbook closed with a flick of his wrist. 
 
+"That's enough for tonight," he said. "The light is getting low. At any rate, it's clear enough the focus will be on the Old Town Hall and the structures upstream."
 
-
-
-## Later
-
-Felix sighed and snapped his sketchbook closed with a flick of his wrist. They fell in step along the bank, the gentle creaking of the ice as familiar as the sighs of patients on the ward. 
+They fell in step along the bank, the gentle creaking of the ice as familiar as the sighs of patients on the ward. 
 
 "You will be going on your evening walk?" Felix asked. 
-Emil considered briefly. Their evening walk had been longer than usual, Felix eager to note the damage to nearly a dozen different buildings scattered along the banks. Long enough, sidling right up to the edge of overlong. 
+Emil considered briefly. Their walk this afternoon had been longer than expected, Felix eager to note the damage to nearly a dozen different buildings scattered along the banks. Long enough, sidling right up to the edge of overlong. 
 "Not tonight," Emil said, "I have lecture notes to review for tomorrow."
 Felix nodded and set off towards Emil's apartments. 
