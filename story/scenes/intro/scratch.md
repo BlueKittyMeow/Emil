@@ -8,4 +8,8 @@ For centuries, the Vltava had been eating away at Prague's flesh, licking away a
 
 There had been efforts to resist this undignified intrusion. The stone embankments had been laid in place as protestation against the flooded streets and moistened basements. The river in turn accepted this detent as reasonable terms for their coexistence. 
 
-While the springtime brought the deluge, the lavish laving of the river's tongue devolving into an excess, wetly seeping into the city's pores, and the .... , winter carved the deepest, prying its claws into the cracks in the joists, baring the bones beneath the flesh. 
+Springtime brought the deluge, the lavish laving of the river's tongue devolving into a frenetic excess. Snowmelt from the mountain thaws surged downstream, seeping into the city's pores. The summer saw a lassitude, a sundrenched slipping into daydreams and sleep. 
+Autum was met with a stretching exhalation, the river shaking out the fallen leaves, clogging the workings of the weirs and races, but still unwilling to be stirred to more than lazy motion. 
+But winter carved the deepest. The Vltava raked against the masonry,prying its claws into the cracks in the joists, baring the bones beneath the flesh. 
+
+
