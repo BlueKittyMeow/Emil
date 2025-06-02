@@ -12,4 +12,6 @@ Springtime brought the deluge, the lavish laving of the river's tongue devolving
 Autum was met with a stretching exhalation, the river shaking out the fallen leaves, clogging the workings of the weirs and races, but still unwilling to be stirred to more than lazy motion. 
 But winter carved the deepest. The Vltava raked against the masonry,prying its claws into the cracks in the joists, baring the bones beneath the flesh. 
 
+Felix's hands sketched quickly, as if cold had caused a tremor in his fingers, but his lines were sharp as ever. Emil watched him as he brought the distant building close to them, a crafting a miniature within the edges of the page. 
 
+Though he lacked the training of his companion, Emil could see the damage that the ice was working on the stonework that sat against the embankment. The lowest stones were cracked, their mortar flaking, the pitting pitiful in contrast to their newer counterparts. 
