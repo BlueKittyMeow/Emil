@@ -2,10 +2,12 @@
 
 ## Artistic Elements
 - Include a painting created with authentic vintage mummy brown pigment
-  - Ties thematically to the historical use of human remains in art and science
-  - Creates a meta-connection to the specimen collection themes
+- Ossuary with skull chandeliers
+- Adopocine candles
 
 ## Plot Points to Develop
+
+### Homosexual attraction to Felix
 
 Parallels to "medical curiosities" - Emil might encounter medical literature or specimens related to "sexual inversion" (the period term), creating moments of self-recognition while highlighting how the medical gaze objectified all forms of human difference.
 
@@ -22,4 +24,3 @@ Architectural metaphors - Felix's discussions of preserving spaces that others w
 [To be expanded with open questions] 
 
 ## Misc Notes
-- Title could involve something of the phrase from Prufrock "when I am fixed and wriggling on a pin". 

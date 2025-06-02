@@ -1,4 +1,4 @@
-# The Collector - Novel Descriptions & Analysis
+# Novel Descriptions & Analysis
 
 ## Quick Pitch
 In 1890s Prague, Dr. Emil Králik struggles with what we now know as anorexia nervosa while investigating a sinister medical specimen collector who targets people with rare conditions. When Emil's aristocratic friend Felix uncovers documents revealing a decades-old collection network, they discover that the collecting hasn't stopped—and Emil himself has become the next target. A gothic literary thriller exploring bodily autonomy, medical ethics, and the commodification of human difference.
@@ -63,6 +63,9 @@ Each character finds ways to exercise control despite systemic constraints. Emil
 - Secondary: Gothic atmosphere and thriller plotting
 - Elements: LGBTQ+ historical fiction, medical humanities, body horror
 
+## Literary Approach
+This work aspires to the depth and resonance of literary classics rather than genre fiction
+
 ## Structural Elements
 
 ### Narrative Perspective
@@ -85,6 +88,20 @@ Third-person limited, primarily through Emil's consciousness with occasional shi
 - **Psychological interiority**: Deep exploration of mental states without modern psychiatric language
 - **Social observation**: Sharp attention to class, ethnicity, and power dynamics
 
+
+### Distinctive Elements
+
+- **Philosophical monologues**: (like Eduard's trepanation speech) that blend medical history with ethical questioning
+- **Historically accurate medical practices and specimens**
+- **The ambiguity of consent**: in Klara's case, highlighting the exploitation inherent in many historical medical collections
+- **Prague's unique atmosphere**: combining scientific advancement with mystical alchemeic traditions
+
+
+### Structure
+- **chapter structure and pacing**: Reminiscent of 19th century novels
+- **length**: 150,000-200,000 words of spare, edited prose
+- **notes on pacing**: deliberate patience, "like a particularly old and battered umbrella under a storm that becomes a deluge—slowly, agonizingly too slowly, and then all at once."
+
 ### Dialogue Considerations
 - Period-appropriate speech patterns reflecting education and class
 - Multilingual environment (Czech/German) influences syntax
@@ -104,3 +121,21 @@ Third-person limited, primarily through Emil's consciousness with occasional shi
 - How do period attitudes toward mental illness shape character interactions?
 - What parallels exist between collecting specimens and preserving architecture?
 - How does the Prague setting's cultural tensions reflect character conflicts?
+
+### Misc Mood Note
+This project aims not for the quick revelations of genre fiction but for the lasting resonance of great literary works—allowing space for digression, philosophical exploration, and the slow development of character and theme that elevates the specific narrative to touch on universal human experiences of mortality, ethics, desire, and preservation.
+
+### Key Themes
+- **The ethics of medical collection and the commodification of human remains**
+- **The thin line between preservation and destruction**
+- **Bodily autonomy and consent in desperate circumstances**
+- **The limits of empirical observation in understanding human experience**
+- **The uncanny relationship between observer and observed**
+- **The preservation of buildings versus bodies**
+- **The tension between medical progress and human dignity**
+
+### Narrative Structure
+- **Integration of traditional prose with medical documentation (clinical notes, measurements)**
+- **Slow-building mystery regarding the Protege's identity**
+- **Emil's gradual transition from investigator to potential specimen**
+- **Structural parallels between architectural preservation and medical preservation**

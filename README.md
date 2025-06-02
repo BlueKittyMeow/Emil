@@ -102,8 +102,7 @@ Set in fin de siècle Prague, the work examines a pivotal moment when the bounda
 The relationship between Emil and Felix, an architectural preservationist, provides a crucial counterpoint, contrasting the preservation of buildings with the preservation of bodies and questioning what society deems worthy of salvation. Their friendship explores the tension between those who document decay and those who attempt to arrest it.
 Through its unflinching examination of self-starvation and bodily autonomy, the novel poses essential questions about ownership of the body, the ethics of observation, and the fine line between research and obsession. The gothic elements serve not as mere aesthetic choice but as philosophical framework for examining the uncanny relationship between the living and the dead, the observer and the observed, the scientist and the specimen—ultimately questioning whether true preservation is ever possible or merely another form of destruction.
 
-## Project Focus
-This project weaves together multiple threads: the ethical complexities of medical research, the tension between scientific progress and human dignity, and the gothic atmosphere of fin de siècle Prague. Through Emil's deteriorating condition and his relationship with medical specimens and curiosities, the story examines the commodification of human bodies in medical science, the obsessive nature of self-documentation, and the thin line between researcher and research subject. The narrative explores how the period's fascination with medical specimens and anatomical curiosities reflected broader cultural attitudes toward death, disease, and the human body.
+
 
 ## Key Themes
 - Professional vs. personal identity

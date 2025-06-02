@@ -22,13 +22,13 @@ Refer to `story/style-guide.md` for:
 - Opening catalyst scene
 - Location: University faculty drawing room
 - Key moment: Emil's veiled autobiography
-- Status: In development
+- Status: Completed
   - Brainstorming completed
   - Summary completed
-  - Draft pending
+  - Draft completed
 
 ### [Future Scenes]
-- The Dance
+- TIntroductory scene
 - Countryside Journey
 - [Others to be added]
 

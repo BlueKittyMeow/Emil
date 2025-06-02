@@ -15,7 +15,7 @@
 - Keep strongest version of repeated imagery
 
 ### 3. Professional/Clinical Tone
-- Maintain formal medical language where character-appropriate
+- Maintain formal medical language where character-appropriate without overuse
 - Balance technical terms with accessible descriptions
 - Use medical terminology purposefully, not decoratively
 - Allow clinical mask to slip strategically for effect
@@ -121,6 +121,19 @@ AVOID:
 - Unvaried technical language
 - Monotonous professional tone
 - Over-repeated atmosphere
+
+### Under-development of stylistic prose
+- Purely declarative prose to move the story forward without any stylistic flourishes
+- Lack of atmosphere
+- Lack of character voice
+- Lack of period detail
+- Lack of pattern breaks
+
+### Ignoring the interpersonal for the plot
+- Purely plot-driven scenes without any character development or interpersonal relationships
+- No attempt to build a relationship between Emil and the other characters
+- No gentle insights into developing the subtext between Emil and Felix
+- No attempt to indirectly reveal how other characters view (noting or not noticing) Emil's condition
 
 ## Style Notes
 

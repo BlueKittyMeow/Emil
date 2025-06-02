@@ -76,7 +76,7 @@
   - Relationship with neighborhood
   - Family situation
 
-#### Eduard (Mentor)
+#### Eduard Weber(Mentor)
 - Based on Jeremy Brett's Sherlock Holmes
 - Need to establish:
   - Exact academic position
@@ -187,9 +187,7 @@
 
 ### New Character Development
 #### Klara (The Beautiful Invalid)
-- Paralysis background:
-  - Cause of condition (illness vs accident)
-  - Age when it occurred
+- FOP
   - Extent of mobility
   - Medical treatments attempted
   - Family response
@@ -219,10 +217,7 @@
   - Possible connection to other characters
 - Plot significance:
   - Parallel to Emil's condition
-  - Potential victim of Protégé
   - Impact on Emil's self-awareness
-  - Connection to Felix's world
-  - Role in uncovering mystery
 - Family Dynamics:
   - Mother's specific medical conditions
   - Cost of mother's care
@@ -550,6 +545,8 @@
 
 ## Collection's Ultimate Fate
 
+This will likely be out of their hands, the authorities and the University will likely have the final say.
+
 ### Ethical Dilemma
 - After Protégé's death, Felix and Emil must decide:
   - Transfer to university (preservation of knowledge)
@@ -593,6 +590,7 @@
 - Ethical standards (or lack thereof)
 - Notable collections and collectors:
   - Ovary/uterus collectors
+  - Ossuary with skull chandeliers
   - Brain collectors
   - "Anomaly" collectors
   - University collection origins
@@ -695,6 +693,7 @@
 - Revelations
 - Consequences
 - Impact on Emil/Felix
+- Too late to save Klara
 
 ### Thematic Weight
 - Institutional power vs individual rights

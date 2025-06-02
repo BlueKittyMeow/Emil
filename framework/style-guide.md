@@ -6,6 +6,7 @@
 - **Primary**: Clinical detachment with underlying dread (Kafka-influenced)
 - **Secondary**: Victorian scientific precision (Doyle-influenced)
 - **Tertiary**: Modernist sensibility in pacing and fragmentation
+- **Quaternary**: Delirious, surreal, hallucinatory, dreamlike, when Emil is emotionally or physically overcome by his condition
 
 ### Setting & Atmosphere
 - 1890s medical/scientific environment with Gothic undertones
@@ -22,7 +23,7 @@
    - Occasional sentence fragments for emphasis without overuse
 
 2. **Narrative Voice**
-   - Third-person limited perspective centered on the scientist's observations
+   - Third-person limited perspective centered on observations
    - Clinical detachment that occasionally reveals deeper concerns
    - Matter-of-fact tone when describing the inexplicable
    - Emotional restraint that heightens rather than diminishes impact
@@ -44,7 +45,7 @@
 1. **Scientific Rationality vs. Unexplainable Phenomena**
    - The limitations of scientific methodology when confronting the truly unknown
    - Professional reputation and institutional pressure against intellectual honesty
-   - The scientist's struggle between empirical evidence and inexplicable observations
+   - The scientist's struggle between empirical evidence and inexplicable observations (particularly seen in Emil's case where he knows his form must be quite thin due to his empirical measurements but the truth of which his eyes and mind reject)
 
 2. **Institutional Dynamics**
    - Power structures within medical/scientific establishments
@@ -55,6 +56,7 @@
    - Medical examination revealing deeper philosophical questions
    - The uncanny quality of biological specimens
    - The boundary between normal and abnormal in medical contexts
+   - The body as a myster to the self as well, something upsetting or to be controlled and shaped. Can it be quantified and known? Perceptual distortion contributing to the continued deprivation and weight loss beyond normal limits (what we would today call body dysmorphia, but which is not yet a term in the 1890s)
 
 4. **Victorian Professional Identity**
    - The scientist's commitment to methodology despite personal cost
@@ -70,11 +72,13 @@
 
 2. **Environmental Resonance**
    - Laboratory settings that mirror psychological states
-   - Time of day (especially night) used to enhance isolation
+   - Time of day (especially night and early morning) used to enhance isolation
+   - Weather (rain, fog, mist, cold) used to enhance isolation
    - Architectural elements (corridors, doorways) as thresholds between known and unknown
+   - Public spaces (streets, squares, parks) vs private spaces (laboratories, offices, homes) to either enhance or reduce isolation. Can be used transgressively as well in key scenes. 
 
 3. **Temporal Precision**
-   - Occasional specific notations of time (clock strikes, hours without sleep) VERY IMPORTANT not to overuse this. 
+   - Occasional notations of time (clock strikes, hours without sleep) VERY IMPORTANT not to overuse this. 
    - References to past experiments and future institutional deadlines
    - The scientist's awareness of time as both resource and pressure
 
@@ -103,7 +107,7 @@
 
 4. **Narrative Distance**
    - Close observation of physical details and scientific processes
-   - Strategic moments of interiority revealing the scientist's thoughts
+   - Strategic moments of interiority revealing thoughts
    - Emotional revelations handled with restraint and often displaced onto objects or environment
 
 This style guide creates a distinctly Victorian medical narrative with modernist and Kafkaesque elements, allowing for the exploration of scientific mystery within a historically grounded setting. The emphasis on precision, restraint, and careful observation creates tension between rational methodology and phenomena that resist categorization.
