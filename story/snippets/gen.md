@@ -14,3 +14,7 @@ A little fractured city map. There, a tangled old town of streets that made up t
 The idea of having a temporal cohort of people who ride along wtih you in reality. We can't ever touch those temporally separated, always isolated to our own universe of time. 
 
 "If you are going to be a bit broken, you must also be sure to be a bit beautiful" - Klara
+
+"if you put the boy off medicine, so help me, Jan-" emil's father in response to Jan telling of seeing van Butchell's wife. 
+
+*"They gave the bastard a knighthood!" (Jan, the boy-") "They gave the thief a knighthood while the genius dies of his own brilliance and is tossed into a pauper's grave."*  - Jan on Simpson and Glover. 

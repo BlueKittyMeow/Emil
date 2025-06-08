@@ -70,4 +70,104 @@ When Emil encounters the Protégé's collection, he immediately recognizes the i
 ### Felix's Devastating Parallel
 Felix eventually confronts Emil with Jan's own story: *"And if I were a physician, then what? You would put me in the position of Gant autopsying Glover? Is that what you are prepared for me to do?"*
 
-This cuts to Emil's unconscious cruelty - expecting Felix to witness his self-destruction with clinical detachment, just as Gant had to dissect his friend's chloroform-ravaged body while maintaining professional composure. 
+This cuts to Emil's unconscious cruelty - expecting Felix to witness his self-destruction with clinical detachment, just as Gant had to dissect his friend's chloroform-ravaged body while maintaining professional composure.
+
+### London Experience: Guy's Hospital (1863)
+
+#### William Withey Gull's Research Circle
+**Perfect Timing**: Jan's visit to Guy's Hospital in 1863 coincided with Gull's emerging interest in what he would later term "anorexia nervosa." Gull had been working at Guy's since 1837 and by 1863 was well-established as a leading physician there.
+
+**Medical Access**: As a qualified physician seeking international credentials, Jan would have had legitimate access to:
+- Guy's Hospital medical rounds and case presentations
+- Professional discussions with Gull and his colleagues
+- Observation of unusual cases that were being studied
+- Access to the medical library and case records
+
+#### Gull's Early Anorexia Cases (1863-1868)
+**Developing Understanding**: Though Gull wouldn't publish his famous "Anorexia Nervosa" paper until 1874, he was already observing and puzzling over these cases in the early 1860s:
+- **Miss A**: First seen by Gull in January 1866, but similar cases would have been discussed earlier
+- **Clinical mysteries**: Young women presenting with extreme emaciation without obvious organic cause
+- **Medical debates**: Colleagues arguing over whether these were physical or mental conditions
+- **Treatment failures**: Traditional remedies proving ineffective
+
+**Jan's Fascination and Horror**: Jan would have encountered:
+- **Case presentations**: Gull demonstrating patients who appeared to be starving themselves deliberately
+- **Medical uncertainty**: Leading physicians baffled by young women who refused food despite obvious wasting
+- **Diagnostic debates**: Arguments over "hysteria" vs. organic disease vs. willful starvation
+- **Tragic outcomes**: Some patients dying despite medical intervention
+
+#### The Medical Framework Jan Absorbed
+**Early Medical Understanding**:
+- **"Apepsia hysterica"**: Gull's early term for the condition
+- **Young women primarily affected**: Ages 16-23, often from educated families  
+- **Paradoxical vitality**: Patients remaining active despite extreme emaciation
+- **Medical helplessness**: Traditional treatments largely ineffective
+- **Control aspects**: Patients seeming to exert willful control over their own destruction
+
+**Gull's Clinical Observations** (that Jan would have heard):
+- Extreme weight loss without organic cause
+- Amenorrhea and low pulse rate
+- "Peculiar restlessness" despite physical wasting
+- Patients claiming to feel "quite well" while obviously dying
+- The need for external intervention against patient wishes
+
+### Impact on Jan's Understanding
+
+#### Medical Knowledge vs. Medical Control
+**Dangerous Intersection**: Jan learned that medical knowledge could be turned against oneself:
+- **Anatomical awareness**: Understanding how the body works could inform self-destruction
+- **Diagnostic evasion**: Medical knowledge could help hide symptoms from other physicians
+- **Treatment resistance**: Understanding medical interventions could enable avoiding them
+- **Scientific rationalization**: Medical training could provide justification for harmful behaviors
+
+#### Professional Ethical Conflicts
+**Gull's Dilemma**: Jan witnessed Gull's struggle with:
+- **Patient autonomy vs. medical intervention**: Should patients be fed against their will?
+- **Family involvement**: When to override patient wishes based on family concerns
+- **Professional boundaries**: How far can medical authority extend into personal behavior?
+- **Treatment failure**: What to do when medical knowledge proves insufficient
+
+### Stories Shared with Young Emil (1864)
+
+#### The Medical Mystery
+**Jan's Account to 10-year-old Emil**:
+*"I saw young ladies, some not much older than you will be one day, who had somehow convinced themselves that food was their enemy. They would waste away before the very eyes of the finest physicians in London, and no amount of medical knowledge could save them from themselves."*
+
+#### The Control Paradox
+**Consciousness and Self-Destruction**: Jan explained how:
+- **Medical knowledge became weapon**: Understanding the body could be used to harm it
+- **Will vs. flesh**: The mind could override physical needs through sheer determination  
+- **Scientific precision**: The same exactness used to heal could be used to destroy
+- **Hidden suffering**: Young people could use medical knowledge to hide their self-destruction
+
+#### The Institutional Pattern
+**Recognition of Exploitation**: Jan connected Gull's cases to broader patterns:
+- **Young, educated, vulnerable**: Similar profile to other victims of medical exploitation
+- **Knowledge as danger**: Education and understanding could become tools of self-harm
+- **Professional helplessness**: Even the most skilled physicians could be defeated by informed self-destruction
+- **Hidden in plain sight**: Medical training could camouflage the very behaviors it should prevent
+
+## Legacy in Emil's Development
+
+### Early Exposure to Eating Disorder Concepts
+**Age 10 Understanding**: Emil absorbed:
+- **Medical framework**: Early clinical understanding of anorexia nervosa
+- **Control mechanisms**: How knowledge could be used for self-regulation/destruction  
+- **Professional vulnerability**: Even physicians could be helpless against informed self-harm
+- **Hidden pathology**: How medical knowledge could conceal rather than reveal illness
+
+### Foundation for Later Patterns
+**Seeds of Emil's System**: Jan's stories provided:
+- **Medical legitimization**: Scientific framework for dietary restriction
+- **Control methodology**: Precise approaches to body management
+- **Evasion techniques**: Ways to hide concerning behaviors from medical colleagues
+- **Rationalization structure**: Using medical knowledge to justify harmful patterns
+
+### Connection to Current Crisis (1894)
+**Inherited Knowledge**: Emil's restrictive patterns echo what Jan described:
+- **Scientific precision**: Exact weight monitoring and dietary calculation
+- **Professional camouflage**: Using medical expertise to hide eating disorder
+- **Control ideology**: Restricting as form of intellectual/spiritual refinement
+- **Medical evasion**: Staying just functional enough to avoid intervention
+
+**The Terrible Irony**: Uncle Jan taught Emil to recognize medical exploitation but inadvertently provided him with the tools for sophisticated self-exploitation using the very medical knowledge meant to protect him. 

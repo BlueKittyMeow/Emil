@@ -9,7 +9,7 @@
 - Jewish quarter significant
 
 ### Notable Districts
-- Charles University (founded 1348)
+- Charles University (founded 1348) - **Split in 1882 into German and Czech institutions**
 - Old Town (Staré Město)
 - Jewish Quarter (Josefov)
 - Lesser Town (Malá Strana)
@@ -30,6 +30,15 @@
 - Multiple languages (German/Czech/Yiddish)
 - Conservative social attitudes
 - Growing nationalism/cultural tensions
+
+### University Division (1882)
+- **February 28, 1882**: Charles University officially split
+- **German Charles-Ferdinand University** - Maintained traditional prestige
+- **Czech Charles-Ferdinand University** - Represented Czech national aspirations
+- **Faculty forced to choose** - Created professional and personal divisions
+- **Ethnic tensions intensified** - Institutional politics affected personal relationships
+- **Professional isolation** - German and Czech academics increasingly separated
+- **Family divisions** - University affiliation could divide family members
 
 ### Daily Customs
 #### Eating Habits
