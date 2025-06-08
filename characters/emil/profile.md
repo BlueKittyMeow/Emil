@@ -588,3 +588,47 @@
 - **Whispered accusations**: "Only advanced because Weber needed a Czech for appearances"
 - **Painful reality**: Success seen as Weber's charity rather than Emil's achievement
 - **Increased dependence**: Makes Emil even more reliant on Weber's continued protection 
+
+## Formative Influences
+
+### Uncle Jan's Edinburgh Stories (1864)
+When Emil was 10 years old, Uncle Jan returned from his medical studies in Edinburgh and London (1860-1864) with disturbing tales that shaped Emil's understanding of medicine and institutional power:
+
+**Robert Mortimer Glover's Tragedy**: Jan witnessed the aftermath of Glover's death by chloroform overdose in 1859 - the brilliant researcher who discovered chloroform's anesthetic properties but died from addiction to his own discovery while Simpson received a knighthood (1866). Jan's bitter words: *"They gave the bastard a knighthood while the genius dies of his own brilliance and is tossed into a pauper's grave."*
+
+**Martin van Butchell's Wife**: Jan saw Mary van Butchell's embalmed body displayed at the Royal College of Surgeons museum - a woman transformed into a medical curiosity by her husband's refusal to let her rest. The prestigious institution's housing of this ethically questionable specimen taught Emil that even respectable medical establishments could exploit the vulnerable.
+
+**Institutional Exploitation**: These stories established Emil's lifelong wariness of how medical knowledge develops versus how credit is assigned - brilliant insights come from students and practical workers, but glory flows to professors with institutional power.
+
+### Early Medical Fascination
+- **Consciousness and Control**: Jan's demonstrations of anesthetic effects on insects fascinated young Emil with the malleability of awareness
+- **Romantic Medical Aesthetic**: Exposure to Keats through Jan's English medical connections - the apothecary-poet who transformed suffering into art
+- **Career Inspiration**: Jan's stories about consciousness, pain, and bodily control became foundational to Emil's later anesthetics specialization
+
+## Medical History & Eating Disorder
+
+### Student Years Episode (~1875, age 21)
+- **First restriction period** during intense academic pressure
+- **Recovery**: Early intervention or natural resolution during less stressful period
+- **Pattern established**: Discovered the "effectiveness" of dietary control for managing anxiety
+
+### University Choice Crisis (1880, age 26)
+- **"Controversial choice"**: Decision to join German University triggered severe relapse
+- **Weber's intervention**: Weber noticed symptoms but interpreted as overwork-related "nervous dyspepsia"
+- **Management system developed**: Instead of recovery, Emil created elaborate control mechanisms to maintain professional function
+
+### Chronic Management Phase (1880-1894)
+- **Target weight**: 52-54kg (BMI 17-17.6) - underweight but sustainable with medical knowledge
+- **Protective rules**: 
+  - No evening walks over 2 hours
+  - Daily walking maximum 5 hours  
+  - Minimum food requirements to avoid professional visibility
+  - Precise daily weighing and weekly measurements
+- **Scientific rationalization**: Convinced himself this was "optimal health maintenance for intellectual work"
+- **Professional necessity**: German University position required hiding any weakness
+
+### Current Crisis (1894)
+- **Guardrail failure**: Investigation stress destroying protective boundaries established over 14 years
+- **Weight dropping**: Below safe range for first time since 1880 - approaching genuinely dangerous territory
+- **Rule breakdown**: Evening walks extending, food minimums ignored, obsessive measurement
+- **Terror of lost control**: Recognition that his "mastered" system is failing catastrophically 
