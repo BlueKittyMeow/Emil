@@ -18,3 +18,18 @@ The idea of having a temporal cohort of people who ride along wtih you in realit
 "if you put the boy off medicine, so help me, Jan-" emil's father in response to Jan telling of seeing van Butchell's wife. 
 
 *"They gave the bastard a knighthood!" (Jan, the boy-") "They gave the thief a knighthood while the genius dies of his own brilliance and is tossed into a pauper's grave."*  - Jan on Simpson and Glover. 
+
+"She's there tonight."
+He wasn't asking for a lot, never, asked for a lot. Emil quickly calculated and nodded and he watched their reflections as they entered the Union Cafe. 
+
+The air is sodden, sagging in the light.
+
+The light which pulses in its push to make it through
+
+It heaves and sighs and flushes past the sash
+
+
+His mother looked at him through her lenses which seemed to make her eyeballs float aimlessly and goggle, giving the impression of a chicken considering some novelty before it. 
+"Horseshit," Charlie, she declared. Waited a moment and then, encouraged at herself, declared again more firmly, pleased, "Horseshit."
+
+Let the meniscus of her overflowing eyes protrude
