@@ -12,3 +12,5 @@ A little fractured city map. There, a tangled old town of streets that made up t
 
 
 The idea of having a temporal cohort of people who ride along wtih you in reality. We can't ever touch those temporally separated, always isolated to our own universe of time. 
+
+"If you are going to be a bit broken, you must also be sure to be a bit beautiful" - Klara

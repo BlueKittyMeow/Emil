@@ -1,0 +1,1 @@
+Ah! Having his uncle study in scotland also gives him a way to learn about Gull!!!!!

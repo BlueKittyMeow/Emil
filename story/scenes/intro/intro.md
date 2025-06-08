@@ -29,3 +29,9 @@ They fell in step along the bank, the gentle creaking of the ice as familiar as 
 Emil considered briefly. Their walk this afternoon had been longer than usual, Felix eager to note the damage to nearly a dozen different buildings scattered along the banks. Long enough, approaching overlong. 
 "Not tonight," Emil said, "I have lecture notes to review for tomorrow."
 Felix nodded and set off towards Emil's apartments. 
+
+---
+
+
+
+Felix nudged Emil and nodded towards 

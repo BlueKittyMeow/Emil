@@ -6,13 +6,13 @@ In 1890s Prague, a doctor struggling with anorexia nervosa must use his speciali
 ---
 
 ## Elevator Pitch (30 seconds)
-When Dr. Emil Kratochvíl and his aristocratic friend Felix uncover a decades-old network of medical specimen collectors in 1890s Prague, they discover the collecting hasn't ended—and Emil's own eating disorder has made him the next target. A gothic literary thriller exploring medical ethics, bodily autonomy, and the commodification of human difference.
+When Dr. Emil Králik and his aristocratic friend Felix uncover a decades-old network of medical specimen collectors in 1890s Prague, they discover the collecting hasn't ended—and Emil's own eating disorder has made him the next target. A gothic literary thriller exploring medical ethics, bodily autonomy, and the commodification of human difference.
 
 ---
 
 ## Query Letter Synopsis
 
-Dr. Emil Kratochvíl has spent years perfecting control—over his anesthetic research, his rigid daily routines, and the wasting disease that slowly consumes him. In 1895 Prague, when his friend Felix von Rothenberg discovers documents revealing a professor's extensive collection of medical specimens, Emil's expertise becomes crucial to understanding the horrifying trade in human curiosities.
+Dr. Emil Králik has spent years perfecting control—over his anesthetic research, his rigid daily routines, and the wasting disease that slowly consumes him. In 1895 Prague, when his friend Felix von Rothenberg discovers documents revealing a professor's extensive collection of medical specimens, Emil's expertise becomes crucial to understanding the horrifying trade in human curiosities.
 
 But the collecting hasn't ended with the professor's death. Someone is continuing the work, targeting Prague's most vulnerable residents—people with rare medical conditions who won't be missed. As Emil and Felix investigate, threatening letters make clear that Emil's own condition has made him a specimen worth acquiring.
 
@@ -24,7 +24,7 @@ A gothic exploration of medical ethics and queer devotion set against the atmosp
 
 ## Book Blurb (Back Cover Copy)
 
-**Prague, 1895.** Dr. Emil Kratochvíl has spent years perfecting the art of control—over his research, his rigid daily routines, and the wasting disease that slowly consumes him. When his closest friend Felix von Rothenberg discovers documents linking a deceased professor to an extensive collection of medical specimens, Emil's expertise becomes crucial to understanding the scope of the horrifying trade.
+**Prague, 1895.** Dr. Emil Králik has spent years perfecting the art of control—over his research, his rigid daily routines, and the wasting disease that slowly consumes him. When his closest friend Felix von Rothenberg discovers documents linking a deceased professor to an extensive collection of medical specimens, Emil's expertise becomes crucial to understanding the scope of the horrifying trade.
 
 But the collecting hasn't ended with the professor's death. Someone is continuing the work, targeting Prague's most vulnerable residents—and Emil's own condition has made him a specimen worth acquiring. As threatening letters escalate and his carefully maintained stability crumbles, Emil must navigate the treacherous worlds of academic medicine and Prague's artistic salons to identify a collector who may be closer than they realize.
 
@@ -40,7 +40,7 @@ A haunting exploration of medical ethics, queer devotion, and the price of survi
 
 ### Setting and Characters
 
-THE SPECIMEN takes place in Prague in 1895, during the final years of the Habsburg Empire. Dr. Emil Kratochvíl is a respected professor specializing in anesthetic research, but he secretly struggles with what we would now recognize as anorexia nervosa—though at the time, such conditions were called "nervous disorders" or "wasting diseases." His closest friend is Felix von Rothenberg, an aristocratic architectural preservationist who helps maintain Prague's historic buildings.
+THE SPECIMEN takes place in Prague in 1895, during the final years of the Habsburg Empire. Dr. Emil Králik is a respected professor specializing in anesthetic research, but he secretly struggles with what we would now recognize as anorexia nervosa—though at the time, such conditions were called "nervous disorders" or "wasting diseases." His closest friend is Felix von Rothenberg, an aristocratic architectural preservationist who helps maintain Prague's historic buildings.
 
 ### The Discovery
 

@@ -1,5 +1,11 @@
 # Story Ideas and TODOs
 
+## Transfer Notes
+- Vienna psychiatry and soporifics (Freud and protege)
+0 Felix architectural preservation (cenral commission)
+- Uncle in Scotland
+
+
 ## Artistic Elements
 - Include a painting created with authentic vintage mummy brown pigment
 - Ossuary with skull chandeliers
