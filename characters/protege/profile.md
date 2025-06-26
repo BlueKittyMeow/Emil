@@ -9,6 +9,42 @@
 **Current Position**: Runs clinic for the poor near Prague  
 **Academic Training**: Psychiatric medicine, studied under early psychiatric pioneers in Vienna  
 
+
+1. His psychological profile
+2. His connection to degeneration theory (Nordau/Morel/Lombroso)
+3. His specific interest in Emil (severe restriction/emaciation) and Klara (FOP)
+4. His escalating obsession and methods
+5. His rationalization through Victorian medical frameworks
+6. The anonymous stalking aspect
+7. His willingness to risk his career
+
+- Age/background (26-30, medical student/young doctor)
+- Education (Prague → Vienna, exposed to degeneration theory)
+- Obsession with degenerative conditions as "endpoints"
+- Belief he's preserving crucial scientific knowledge
+- Anonymous surveillance escalating to active threat
+- Professional risk vs. compulsive need
+- Connection to the broader themes of conservation/preservation/destruction
+
+**Dr. [Viktor/Václav] - Age 27, Medical Student/Junior Doctor**
+
+**Background & Education:**
+Educated Prague → Vienna, exposed to peak degeneration theory discourse (1888-1894). Lower nobility background - enough status for medical education, desperate for professional distinction. Studied under followers of Krafft-Ebing, deeply influenced by Nordau's "Degeneration" and Lombroso's criminal anthropology.
+
+**Research Obsession:**
+Believes degenerative conditions represent "perfected endpoints" of human deterioration - living laboratories showing what happens when hereditary decline reaches completion. Views Emil's voluntary self-starvation and Klara's progressive ossification as complementary specimens: willful vs. involuntary degeneration, mental vs. physical manifestation.
+
+**Theoretical Framework:**
+Following Morel's progressive hereditary decline model, he sees both patients as invaluable scientific evidence. Not collecting trophies, but building a "hidden anatomical library" documenting degeneration processes that institutional medicine ignores. Believes he's heroically preserving knowledge crucial for understanding civilization's decline.
+
+**Methods & Escalation:**
+Anonymous surveillance escalating from professional interest to compulsive obsession. Employs Victorian stalking techniques - café observation, medical network infiltration, routine mapping. As Emil's condition progresses, time pressure creates desperation. Professional self-preservation increasingly overridden by grandiose sense of scientific destiny.
+
+**Core Motivation:**
+Convinced he's documenting the physical manifestation of psychiatric theory - that studying degenerative endpoints will unlock fundamental truths about the mind-body connection that will revolutionize medicine and secure his immortality in scientific history.
+
+
+
 ## Physical Characteristics
 
 ### The Disfigurement
